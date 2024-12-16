@@ -1,3 +1,10 @@
+"""
+election_scraper.py: třetí projekt do Engeto Online Python Akademie
+author: Martina Volrábová
+email: martina.volrabova@seznam.cz
+discord: Martina Volrábová, Martina Volrabova#!pdb1714
+"""
+
 import sys
 import requests
 from bs4 import BeautifulSoup
